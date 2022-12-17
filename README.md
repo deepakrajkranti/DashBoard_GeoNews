@@ -14,7 +14,7 @@ A data visualization dashboard built using ReactJS.
  
  A detailed table, also provides the overall overview of each industry
 
-# 2. Description
+# 3. Input / Output
 
 Input is extracted using Api-call with various link:
 
@@ -23,4 +23,7 @@ Input is extracted using Api-call with various link:
   3.http://www.sbwire.com/press-releases/n-hexane-market-hit-at-a-cagr-of-5-by-2024-pmr-report-761520.htm
   4.https://cleantechnica.com/2017/01/12/e-boats-anyone-electric-boat-market-reach-20b-2027-according-new-study/
   5.http://www.news.tracanada.ca/2017/01/16/oil-prices-will-be-much-more-volatile-in-2017/
+
+output is Dispalyed by extacting Data and Displayed in the form of Dahboard by Data Visualization.
+
   
