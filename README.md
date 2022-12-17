@@ -1,3 +1,3 @@
-#### Title: Facial Expression Recognition
+# Title: Facial Expression Recognition
 
-### 1. Methodology
+# 1. Methodology
