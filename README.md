@@ -13,3 +13,8 @@ A data visualization dashboard built using ReactJS.
  Apart from representing intensities of growth, you can also see the relevance and likelihood of the industries.
  
  A detailed table, also provides the overall overview of each industry
+
+# 2. Description
+
+Input is extracted using Api-call with various link:
+  http://www.sustainablebrands.com/news_and_views/supply_chain/sustainable_brands/wri_partnership_aims_foster_supply_chain_transparency
