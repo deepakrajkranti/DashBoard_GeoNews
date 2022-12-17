@@ -37,5 +37,9 @@ Output is Dispalyed by extacting Data and Displayed in the form of Dahboard by D
 # 4. Screenshot of the Interface
 ![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p1.png)
 
+![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p2.png)
 
+![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p3.png)
+
+![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p4.png)
   
