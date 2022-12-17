@@ -29,6 +29,6 @@ Input is extracted using Api-call with various link:
   5.http://www.news.tracanada.ca/2017/01/16/oil-prices-will-be-much-more-volatile-in-2017/
   
 
-output is Dispalyed by extacting Data and Displayed in the form of Dahboard by Data Visualization.
+Output is Dispalyed by extacting Data and Displayed in the form of Dahboard by Data Visualization.
 
   
