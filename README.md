@@ -1,4 +1,4 @@
-# Title: DashBoard Deployment
+# Title: DashBoard_GeoNews
 
 # 1. Methodology
 A data visualization dashboard built using ReactJS.
