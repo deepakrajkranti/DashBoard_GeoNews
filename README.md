@@ -17,4 +17,10 @@ A data visualization dashboard built using ReactJS.
 # 2. Description
 
 Input is extracted using Api-call with various link:
-  http://www.sustainablebrands.com/news_and_views/supply_chain/sustainable_brands/wri_partnership_aims_foster_supply_chain_transparency
+
+  1.http://www.sustainablebrands.com/news_and_views/supply_chain/sustainable_brands/wri_partnership_aims_foster_supply_chain_transparency
+  2.http://www.sbwire.com/press-releases/n-hexane-market-hit-at-a-cagr-of-5-by-2024-pmr-report-761520.htm
+  3.http://www.sbwire.com/press-releases/n-hexane-market-hit-at-a-cagr-of-5-by-2024-pmr-report-761520.htm
+  4.https://cleantechnica.com/2017/01/12/e-boats-anyone-electric-boat-market-reach-20b-2027-according-new-study/
+  5.http://www.news.tracanada.ca/2017/01/16/oil-prices-will-be-much-more-volatile-in-2017/
+  
