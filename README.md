@@ -35,7 +35,7 @@ Output is Dispalyed by extacting Data and Displayed in the form of Dahboard by D
 [Deepak-HeatMap](http://stark-heatmap.surge.sh/)
 
 # 4. Screenshot of the Interface
-![](https://github.com/deepakrajkranti/ChelsiAI-/blob/main/UI.png)
+![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p1.png)
 
 
   
