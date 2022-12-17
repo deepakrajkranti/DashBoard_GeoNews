@@ -43,5 +43,4 @@ Output is Dispalyed by extacting Data and Displayed in the form of Dahboard by D
 
 ![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p4.png)
 
-![](https://github.com/deepakrajkranti/DashBoard_kranti/blob/main/p5.png)
   
